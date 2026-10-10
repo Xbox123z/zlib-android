@@ -1,3 +1,4 @@
+徒弟沈舒心同学请尝试注册GitHub,提交pr, 改进readme,发出issue,锻炼计算机能力，为大学做准备
 # Z-Library for Android
 
 Z-Library 原生安卓客户端，Kotlin + Jetpack Compose 实现，是 [heartleo/zlib](https://github.com/heartleo/zlib) 命令行客户端的安卓移植版，功能尽可能 1:1 还原。
